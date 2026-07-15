@@ -1,0 +1,6 @@
+azure-ai-contentsafety
+azure-core
+openai
+fastapi
+uvicorn
+pydantic
